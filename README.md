@@ -22,7 +22,7 @@ $ python X-plugin.py
 - **last**: The tool will look for valid and invalid logins
 
 ## Warning! txt format must be the same as below
-{url target}wp-login.php#{username}@{password}
+{url target}/wp-login.php#{username}@{password}
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 ### Original Author
